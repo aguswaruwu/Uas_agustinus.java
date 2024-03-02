@@ -1,1 +1,1 @@
-ini adalah UAS mata kuliah OOP
+Ini adalah project matakuliah OOP
